@@ -8,6 +8,7 @@ import java.util.HashMap;
 import java.util.List;
 
 public class IdCardFactory extends Factory {
+
     private List owner = new ArrayList();
     private HashMap database = new HashMap();
     private int serial = 100;
