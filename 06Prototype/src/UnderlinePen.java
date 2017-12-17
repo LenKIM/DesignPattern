@@ -14,6 +14,7 @@ public class UnderlinePen implements Product {
     public UnderlinePen(char ulchar) {
         this.ulchar = ulchar;
     }
+
     @Override
     public void use(String s){
         int length = s.getBytes().length;
