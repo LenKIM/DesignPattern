@@ -19,7 +19,7 @@ SlideBorder => 좌우에 장식을 붙이는 클래스
 FullBorder => 상하좌우에 장식을 붙이는 클래스  
 Main => 동작 테스트용의 클래스  
 
-
+## Ex) 에디터
 
 ## Decorator 패턴의 등장인물
 
