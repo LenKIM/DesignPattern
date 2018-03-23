@@ -82,3 +82,7 @@ Visitor 패턴의 목적은 **처리를 데이터 구조에서 분리하는 일*
 
 ### 6. Visitor가 처리하기 위해서는 무엇이 필요한가?
 
+
+더블패치에 대한 간략한 참조 사이트
+[https://jinwooe.wordpress.com/2017/01/29/더블-디스패치/amp/](https://jinwooe.wordpress.com/2017/01/29/더블-디스패치/amp/)
+
