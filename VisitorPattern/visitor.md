@@ -7,9 +7,5 @@
 - CompositePattern과 살짝 유사
   
   
-  ![](https://ws1.sinaimg.cn/large/006tKfTcgy1fmzw3hq0ufj30o80ectan.jpg)
-  
-  
-  
-  
+![](https://ws1.sinaimg.cn/large/006tKfTcgy1fmzw3hq0ufj30o80ectan.jpg)
 ![](https://ws4.sinaimg.cn/large/006tKfTcgy1fmzw3kizf7j315s0qgqa5.jpg)
