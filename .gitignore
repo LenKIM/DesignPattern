@@ -75,3 +75,10 @@ fabric.properties
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+Add to .gitignore file
+/10Strategy/*.iml
+/VisitorPattern/VisitorPattern.iml
+/16Mediator/16Mediator.iml
+/15Facade/15Facade.iml
+/10Strategy/10Strategy.iml
+/09Bridge/09Bridge.iml
