@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/20FlyWeight/20FlyWeight.iml" filepath="$PROJECT_DIR$/20FlyWeight/20FlyWeight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21Proxy/21Proxy.iml" filepath="$PROJECT_DIR$/21Proxy/21Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22Command/22Command.iml" filepath="$PROJECT_DIR$/22Command/22Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
+    </modules>
+  </component>
+</project>
